@@ -33,7 +33,7 @@
 }
 .cat3{
     background-color: blue;
-    padding: 5px 15px;
+    padding: 10px 30px;
     border-radius: 10px;
 }
 .categories h1{
@@ -43,4 +43,14 @@
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
     border-radius: 10px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+#contact-us{
+    height: 300px;
+}
+#contact-us h6{
+    color: gray;
 }
